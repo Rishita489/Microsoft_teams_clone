@@ -1,5 +1,5 @@
 # Microsoft_teams_clone
-v-chat-master is a video chat app where you can group up with people and have a group video call/conference 
+v-chat-master is a video chat app where you can group up with people and have a group video call/conference .
 It also has the chat feature where you can chat with the participants of the group video call during the group meet .
 
 
