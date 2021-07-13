@@ -3,7 +3,6 @@ v-chat-master is a video chat app where you can group up with people and have a 
 It also has the chat feature where you can chat with the participants of the group video call during the group meet .
 
 
-
 Check out the live demo: https://v-chat-master.herokuapp.com/ .
 
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC) . It has a mute audio button which can be used to mute and unmute the audio during the call . 
