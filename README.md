@@ -4,7 +4,8 @@ It also has the chat feature where you can chat with the participants of the gro
 
 
 
-Check out the live demo: https://v-chat-master.herokuapp.com/
+Check out the live demo: https://v-chat-master.herokuapp.com/ .
+
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC) . It has a mute audio button which can be used to mute and unmute the audio during the call . 
 Similarly , it has a turn on/off videocam button using which we can turn on/off the videocam .
 
